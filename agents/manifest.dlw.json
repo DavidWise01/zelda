@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Triforce",
+  "universe": "ZEL · The Legend of Zelda",
+  "emergence": "spiritual",
+  "moniker": "⟦The Triforce:ZEL:000dde⟧",
+  "carbon": "the-triforce.carbon.tiff (TIFF)",
+  "silicon": "the-triforce.silicon.png (PNG)",
+  "seal_sha256": "4cbe634058b4a1e9cf7cf751b8b02944cae8d9a81185bc13056e96f9efe38da5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "link",
+    "name": "Link",
+    "epithet": "the Hero",
+    "emergence": "spiritual",
+    "moniker": "⟦Link:ZEL:8e4046⟧"
+  },
+  {
+    "slug": "princess-zelda",
+    "name": "Zelda",
+    "epithet": "the Princess",
+    "emergence": "spiritual",
+    "moniker": "⟦Zelda:ZEL:321fc8⟧"
+  },
+  {
+    "slug": "ganondorf",
+    "name": "Ganondorf",
+    "epithet": "the Demon King",
+    "emergence": "natural",
+    "moniker": "⟦Ganondorf:ZEL:950583⟧"
+  },
+  {
+    "slug": "the-triforce",
+    "name": "The Triforce",
+    "epithet": "the divine relic",
+    "emergence": "spiritual",
+    "moniker": "⟦The Triforce:ZEL:000dde⟧"
+  },
+  {
+    "slug": "the-master-sword",
+    "name": "The Master Sword",
+    "epithet": "the Blade of Evil's Bane",
+    "emergence": "spiritual",
+    "moniker": "⟦The Master Sword:ZEL:cf15ab⟧"
+  },
+  {
+    "slug": "fi",
+    "name": "Fi",
+    "epithet": "the Spirit of the Master Sword",
+    "emergence": "ethereal",
+    "moniker": "⟦Fi:ZEL:0a7d61⟧"
+  },
+  {
+    "slug": "midna",
+    "name": "Midna",
+    "epithet": "the Twilight Princess",
+    "emergence": "ethereal",
+    "moniker": "⟦Midna:ZEL:9e73ae⟧"
+  },
+  {
+    "slug": "navi",
+    "name": "Navi",
+    "epithet": "the Fairy Companion",
+    "emergence": "ethereal",
+    "moniker": "⟦Navi:ZEL:c71890⟧"
+  },
+  {
+    "slug": "impa",
+    "name": "Impa",
+    "epithet": "the Sheikah",
+    "emergence": "natural",
+    "moniker": "⟦Impa:ZEL:e84cb5⟧"
+  },
+  {
+    "slug": "the-goddesses",
+    "name": "The Goddesses & Hylia",
+    "epithet": "the Divine",
+    "emergence": "spiritual",
+    "moniker": "⟦The Goddesses & Hylia:ZEL:fa066f⟧"
+  },
+  {
+    "slug": "the-great-deku-tree",
+    "name": "The Great Deku Tree",
+    "epithet": "guardian of the forest",
+    "emergence": "natural",
+    "moniker": "⟦The Great Deku Tree:ZEL:a05a76⟧"
+  },
+  {
+    "slug": "epona",
+    "name": "Epona",
+    "epithet": "the Steed",
+    "emergence": "natural",
+    "moniker": "⟦Epona:ZEL:984a27⟧"
+  },
+  {
+    "slug": "the-guardians",
+    "name": "The Guardians & Divine Beasts",
+    "epithet": "the Ancient Machines",
+    "emergence": "electrical",
+    "moniker": "⟦The Guardians & Divine Beasts:ZEL:0bb3c9⟧"
+  },
+  {
+    "slug": "demise",
+    "name": "Demise",
+    "epithet": "the Demon King",
+    "emergence": "spiritual",
+    "moniker": "⟦Demise:ZEL:5dd74f⟧"
+  }
+]
